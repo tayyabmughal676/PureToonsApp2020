@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">PureToons App</string>
+
+    <string-array name="CartoonsCatergories">
+        <item>Cartoon Series Hindi Dubbed</item>
+        <item>Cartoon Series English</item>
+        <item>Cartoon/Animated Movies</item>
+        <item>Anime Cartoon Special</item>
+    </string-array>
+
+    <string-array name="DownloadOption">
+        <item>Watch Online</item>
+        <item>Download</item>
+    </string-array>
+</resources>
